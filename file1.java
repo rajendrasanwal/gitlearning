@@ -9,5 +9,7 @@ public class File1 {
 
 		System.out.format(" remote changed ..........");
 		System.out.format("changes by anotgher u   ser");
+		System.out.format("changes by local changes u   ser");
+		
 	}
 }
